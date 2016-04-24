@@ -6,3 +6,6 @@ This is first file local.
 Its gud.
 
 Direct change on cloud.
+
+This is also bug fix. to test conflicts.
+
